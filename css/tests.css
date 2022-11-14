@@ -1,0 +1,12 @@
+.see {
+    background-color: rgba(0, 0, 0, 0);
+    height: 36vh;
+    width: 400px;
+    margin: 200px auto;
+}
+.see picture {
+    transition: 1s;
+}
+.see img{
+    width: 100%;
+}

@@ -734,7 +734,7 @@ header .nav .others .others-links ul a:hover::before{
 @media (max-width: 991px) {
     .youtube .top-video {
         flex-direction: column;
-        height: 90vh;
+        height: 100vh;
     }
     .top-video .side-bar {
         flex-direction: column;
